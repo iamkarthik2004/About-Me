@@ -1,0 +1,4 @@
+Small Project Week 2
+
+Create a simple "About Me" page with a table to list your favorite movies and a form to collect a visitor's name and
+email.
